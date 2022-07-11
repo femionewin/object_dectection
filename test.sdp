@@ -1,0 +1,7 @@
+v=0
+o=0.0.0.0
+s=test
+t=0 0
+c=IN IP4 0.0.0.0
+m=video 14500 RTP/AVP 99
+a=rtpmap:99 H264/180000
